@@ -1,4 +1,11 @@
+
+
 p{
-    color:blue;
+    color:rgb(255, 255, 255);
     font-size: 50;
+}
+
+body{
+    background-color: black;
+
 }
